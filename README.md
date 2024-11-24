@@ -115,6 +115,7 @@ Incorporate additional platforms like StockTwits or financial news.
 Experiment with advanced NLP models (e.g., BERT, RoBERTa).
 Add historical stock price data for multi-modal analysis.
 ### Project Structure ###
+````
 stock_sentiment_analysis/
 │
 ├── README.md                     # Instructions on how to run the project
@@ -135,6 +136,7 @@ stock_sentiment_analysis/
     ├── scraping_demo.ipynb       # Notebook for demonstrating scraping
     ├── sentiment_analysis.ipynb  # Notebook for sentiment analysis
     └── model_training.ipynb      # Notebook for training the model
+````
 ### Acknowledgments ###
 -Twitter API: For providing access to real-time tweet data.
 -Reddit API (PRAW): For enabling data scraping from subreddits.
